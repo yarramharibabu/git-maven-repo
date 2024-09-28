@@ -3,7 +3,7 @@ package org.example;
 
 import java.util.Arrays;
 
-public class SelectionSort {
+public class Sorting {
     public static void main(String[] args){
         int[] array={10,27,38,15,99,4,84,5,12};
 
